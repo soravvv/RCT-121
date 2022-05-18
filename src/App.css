@@ -1,0 +1,12 @@
+.cont {
+  border: 1px solid grey;
+}
+
+.img {
+  display: flex;
+  gap: 2rem;
+}
+
+.text {
+  padding-bottom: 1rem;
+}
