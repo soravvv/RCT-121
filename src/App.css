@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  border: 1px solid black;
+  height: 8rem;
+  width: 30rem;
+}
+
+.btn {
+  border: 1px solid black;
+  height: 8rem;
+  width: 10rem;
+  background-color: transparent;
+  font-size: 4rem;
+  text-align: center;
+}
