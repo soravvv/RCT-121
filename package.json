@@ -1,5 +1,5 @@
 {
-  "name": "githubreducer",
+  "name": "chakra-assi-121",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,7 +8,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "@chakra-ui/react": "2.1.0",
+    "@emotion/react": "11.9.0",
+    "@emotion/styled": "11.8.1",
+    "framer-motion": "6.3.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },

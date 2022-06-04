@@ -1,11 +1,14 @@
 import "./App.css";
-import { Github } from "./components/Github";
+import { Layout1 } from "./components/Layout1";
+import { Layout2 } from "./components/Layout2";
+import { Layout3 } from "./components/Layout3";
 
 function App() {
-
   return (
     <div className="App">
-      <Github />
+      {/*<Layout1 />*/}
+      {/*<Layout2 />*/}
+      <Layout3 />
     </div>
   );
 }
