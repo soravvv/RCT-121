@@ -1,13 +1,11 @@
-import { useState } from "react";
 import "./App.css";
-import { ContactCard } from "./components/ContactCard";
-import { ContactList } from "./components/ContactList";
+import { Github } from "./components/Github";
 
 function App() {
+
   return (
-    <div>
-      <ContactCard />
-      <ContactList />
+    <div className="App">
+      <Github />
     </div>
   );
 }
