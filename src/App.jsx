@@ -1,11 +1,10 @@
 import "./App.css";
-import { Github } from "./components/Github";
+import { AllRoutes } from "./Routes/AllRoutes";
 
 function App() {
-
   return (
     <div className="App">
-      <Github />
+      <AllRoutes />
     </div>
   );
 }
